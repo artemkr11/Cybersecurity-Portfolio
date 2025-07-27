@@ -8,7 +8,7 @@ Welcome to my cybersecurity portfolio! I'm a passionate cybersecurity and IT stu
 
 - 🎓 **Cybersecurity Major**, University of Cincinnati (Class of 2026)
 - 🧰 Skills: Vulnerability Assessment, Network Security, SIEM, Python, Bash, PowerShell, Trellix, Splunk
-- 🔐 Current Role: IS Intern – Cybersecurity at Parkview Health (Summer 2024)
+- 🔐 Current Role: IS Intern – Cybersecurity at Fuchsjobs (Summer 2025)
 - 💡 Interests: Threat Hunting, Digital Forensics, Cloud Security, Red Teaming
 
 ---
