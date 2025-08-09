@@ -19,16 +19,47 @@ My approach blends technical expertise with critical thinking to solve problems 
 
 ---
 
-## 🏆 Achievements & Experience
+## 🏆 Professional Experience
 
-- **IS Intern – Cybersecurity** at *Parkview Health* (Summer 2024)  
-  Worked in a hybrid role supporting information security initiatives, threat monitoring, and security tool administration (including Trellix EDR).
+### **Information Services Intern – Cybersecurity**  
+**Parkview Health** – Fort Wayne, IN *(Summer 2024)*  
 
-- **Hands-on Security Labs & Projects**  
-  Completed academic and personal projects involving vulnerability assessments, simulated phishing campaigns, log correlation with Splunk/Wazuh, and malware sandboxing.
+- Collaborated with both the **IS** and **Cybersecurity** teams in a hybrid work environment.  
+- Gained hands-on experience with **Trellix Endpoint Detection & Response (EDR)** for monitoring threats and responding to incidents.  
+- Assisted in vulnerability management processes, ensuring systems adhered to security compliance requirements.  
+- Supported email security monitoring and phishing simulation campaigns to increase security awareness.  
+- Participated in internal ticket resolution for security-related issues, enhancing response efficiency.  
+- Contributed to documentation of standard operating procedures for security tools and processes.
 
-- **Continuous Learning**  
-  Completed certifications and coursework to stay current with evolving cybersecurity threats, tools, and compliance frameworks.
+---
+
+### **Cybersecurity & IT Intern**  
+**Fuchsjobs** – Remote *(2025)*  
+
+- Managed the technical and security operations of the **Rechnungsfuchs** website and blog.  
+- Implemented **WordPress** security hardening measures, including regular plugin updates, access control, and backup automation.  
+- Conducted **routine security audits** to detect vulnerabilities and ensure safe content delivery.  
+- Integrated automation tools for blog post scheduling and optimized site structure for performance and SEO.  
+- Collaborated with cross-functional teams to ensure that security measures supported business goals without affecting site usability.
+
+---
+
+## 💻 Skills
+
+### **Technical Skills**
+- **Security Tools:** Trellix EDR, Nessus, OpenVAS, Wireshark, Tcpdump, Splunk, Wazuh, Nmap  
+- **Operating Systems:** Windows Server, Linux (Ubuntu, Kali), macOS  
+- **Programming & Scripting:** Python, PowerShell, Bash, SQL  
+- **Networking:** VLAN configuration, firewall rules, packet capture analysis, secure network architecture  
+- **Cloud & Identity:** Azure Active Directory, MFA setup, conditional access policies  
+- **Web Security:** WordPress hardening, site monitoring, access control, SSL configuration  
+
+### **Soft Skills**
+- Analytical thinking and problem solving  
+- Clear technical documentation writing  
+- Cross-team communication in hybrid/remote environments  
+- Time management and self-directed learning  
+- Adaptability to emerging tools and technologies  
 
 ---
 
