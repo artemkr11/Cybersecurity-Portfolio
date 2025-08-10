@@ -8,7 +8,7 @@ This repository showcases my technical skills, hands-on projects, and profession
 ## 📜 Professional Summary
 
 I am a **Cybersecurity & IT major** at the **University of Cincinnati** (Class of 2026) with a passion for securing digital infrastructure, analyzing threats, and creating practical security solutions.  
-Through internships, academic projects, and independent learning, I have gained experience in:
+Through internships, academic projects, and industry programs, I have gained experience in:
 
 - **Defensive Security** – log analysis, SIEM monitoring, incident response  
 - **Offensive Security** – vulnerability scanning, penetration testing, CTF problem solving  
@@ -20,6 +20,17 @@ My approach blends technical expertise with critical thinking to solve problems 
 ---
 
 ## 🏆 Professional Experience
+
+### **Cybersecurity & IT Intern**  
+**Fuchsjobs** – Remote *(2025)*  
+
+- Managed the technical and security operations of the **Rechnungsfuchs** website and blog.  
+- Implemented **WordPress** security hardening measures, including plugin updates, access control, and backup automation.  
+- Conducted **routine security audits** to detect vulnerabilities and ensure safe content delivery.  
+- Integrated automation tools for blog post scheduling and optimized site structure for performance and SEO.  
+- Collaborated with cross-functional teams to ensure that security measures supported business goals without affecting site usability.
+
+---
 
 ### **Information Services Intern – Cybersecurity**  
 **Parkview Health** – Fort Wayne, IN *(Summer 2024)*  
@@ -33,14 +44,13 @@ My approach blends technical expertise with critical thinking to solve problems 
 
 ---
 
-### **Cybersecurity & IT Intern**  
-**Fuchsjobs** – Remote *(2025)*  
+### **Data & Analytics Intern**  
+**InfoTrust** – Cincinnati, OH *(2023)*  
 
-- Managed the technical and security operations of the **Rechnungsfuchs** website and blog.  
-- Implemented **WordPress** security hardening measures, including regular plugin updates, access control, and backup automation.  
-- Conducted **routine security audits** to detect vulnerabilities and ensure safe content delivery.  
-- Integrated automation tools for blog post scheduling and optimized site structure for performance and SEO.  
-- Collaborated with cross-functional teams to ensure that security measures supported business goals without affecting site usability.
+- Assisted in **data governance** and **digital analytics** operations for large-scale client accounts.  
+- Worked with secure data pipelines, ensuring compliance with privacy frameworks such as **GDPR** and **CCPA**.  
+- Developed documentation for analytics tracking implementation while following **data security best practices**.  
+- Collaborated with marketing and IT teams to maintain accurate, privacy-compliant reporting structures.
 
 ---
 
@@ -60,6 +70,20 @@ My approach blends technical expertise with critical thinking to solve problems 
 - Cross-team communication in hybrid/remote environments  
 - Time management and self-directed learning  
 - Adaptability to emerging tools and technologies  
+
+---
+
+## 📜 Certifications & Programs
+
+- **Google Cybersecurity Professional Certificate**  
+  - Covered security operations, network defense, incident response, and SIEM tools.  
+  - Completed a capstone project simulating a real-world security incident response.  
+
+- **IQ4 Cloud Apprenticeship**  
+  - Completed training on cloud infrastructure, virtualization, and identity management.  
+  - Worked with Azure and AWS environments to configure secure access and monitor compliance.
+
+- **LinkedIn Learning Coursework** – Cloud Security, PowerShell Automation, Incident Handling, Security Operations
 
 ---
 
