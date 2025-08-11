@@ -1,93 +1,219 @@
-# 🔐 Artem's Cybersecurity Portfolio
+🔐 Artem’s Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio!  
-This repository showcases my technical skills, hands-on projects, and professional growth as a cybersecurity student and practitioner. It reflects my journey in building a strong foundation in information security, system administration, and risk management — with a focus on applying these skills in practical, real-world environments.
+Welcome to my cybersecurity portfolio — a showcase of my technical expertise, hands-on projects, and professional growth as a cybersecurity student and practitioner. This collection reflects my journey in building a strong foundation in information security, system administration, and risk management, with a focus on applying skills in real-world environments.
 
----
+⸻
 
-## 📜 Professional Summary
+📜 Professional Summary
 
-I am a **Cybersecurity & IT major** at the **University of Cincinnati** (Class of 2026) with a passion for securing digital infrastructure, analyzing threats, and creating practical security solutions.  
-Through internships, academic projects, and industry programs, I have gained experience in:
+I’m a Cybersecurity & IT major at the University of Cincinnati (Class of 2026) passionate about protecting digital infrastructure, identifying threats, and developing effective, practical security solutions.
 
-- **Defensive Security** – log analysis, SIEM monitoring, incident response  
-- **Offensive Security** – vulnerability scanning, penetration testing, CTF problem solving  
-- **Automation** – scripting in Python, PowerShell, and Bash  
-- **Cloud & Network Security** – identity management, secure configurations, network monitoring  
+Through internships, academic projects, and industry programs, I’ve gained experience in:
+•
+Defensive Security – log analysis, SIEM monitoring, incident response
+•
+Offensive Security – vulnerability scanning, penetration testing, CTF challenges
+•
+Automation – scripting in Python, PowerShell, and Bash
+•
+Cloud & Network Security – identity management, secure configurations, network monitoring
 
-My approach blends technical expertise with critical thinking to solve problems efficiently and ensure security best practices.
+My approach blends technical expertise with analytical problem-solving, ensuring security best practices are applied with precision and efficiency.
 
----
+⸻
 
-## 🏆 Professional Experience
+🏆 Professional Experience
 
-### **Cybersecurity & IT Intern**  
-**Fuchsjobs** – Remote *(2025)*  
+Cybersecurity & IT Intern
+Fuchsjobs – Remote (2025)
+•
+Directed technical and security operations for the Rechnungsfuchs website and blog.
+•
+Hardened WordPress security with plugin updates, access controls, and automated backups.
+•
+Performed regular security audits to identify vulnerabilities and ensure safe content delivery.
+•
+Automated blog scheduling and optimized site structure for performance and SEO.
+•
+Partnered with cross-functional teams to align security measures with business goals without compromising usability.
 
-- Managed the technical and security operations of the **Rechnungsfuchs** website and blog.  
-- Implemented **WordPress** security hardening measures, including plugin updates, access control, and backup automation.  
-- Conducted **routine security audits** to detect vulnerabilities and ensure safe content delivery.  
-- Integrated automation tools for blog post scheduling and optimized site structure for performance and SEO.  
-- Collaborated with cross-functional teams to ensure that security measures supported business goals without affecting site usability.
+Information Services Intern – Cybersecurity
+Parkview Health – Fort Wayne, IN (Summer 2024)
+•
+Worked with IS and Cybersecurity teams in a hybrid environment.
+•
+Monitored threats and responded to incidents using Trellix Endpoint Detection & Response (EDR).
+•
+Supported vulnerability management to maintain compliance with security standards.
+•
+Assisted in email security monitoring and phishing simulations to raise awareness.
+•
+Resolved security-related tickets and contributed to standard operating procedure documentation.
 
----
+Data & Analytics Intern
+InfoTrust – Cincinnati, OH (2023)
+•
+Supported data governance and analytics operations for large-scale clients.
+•
+Ensured compliance with privacy regulations (GDPR, CCPA) in secure data pipelines.
+•
+Created documentation for analytics tracking implementations.
+•
+Collaborated with marketing and IT teams to maintain accurate, privacy-compliant reporting.
 
-### **Information Services Intern – Cybersecurity**  
-**Parkview Health** – Fort Wayne, IN *(Summer 2024)*  
+⸻
 
-- Collaborated with both the **IS** and **Cybersecurity** teams in a hybrid work environment.  
-- Gained hands-on experience with **Trellix Endpoint Detection & Response (EDR)** for monitoring threats and responding to incidents.  
-- Assisted in vulnerability management processes, ensuring systems adhered to security compliance requirements.  
-- Supported email security monitoring and phishing simulation campaigns to increase security awareness.  
-- Participated in internal ticket resolution for security-related issues, enhancing response efficiency.  
-- Contributed to documentation of standard operating procedures for security tools and processes.
+💻 Skills
 
----
+Technical Skills
+•
+Security Tools: Trellix EDR, Nessus, OpenVAS, Wireshark, Tcpdump, Splunk, Wazuh, Nmap
+•
+Operating Systems: Windows Server, Linux (Ubuntu, Kali), macOS
+•
+Programming & Scripting: Python, PowerShell, Bash, SQL
+•
+Networking: VLAN configuration, firewall rules, packet analysis, secure network design
+•
+Cloud & Identity: Azure Active Directory, MFA setup, conditional access policies
+•
+Web Security: WordPress hardening, site monitoring, access control, SSL configuration
 
-### **Data & Analytics Intern**  
-**InfoTrust** – Cincinnati, OH *(2023)*  
+Soft Skills
+•
+Analytical thinking & problem-solving
+•
+Clear, concise technical documentation
+•
+Cross-team collaboration in hybrid/remote environments
+•
+Strong time management & self-directed learning
+•
+Adaptability to new tools and technologies
 
-- Assisted in **data governance** and **digital analytics** operations for large-scale client accounts.  
-- Worked with secure data pipelines, ensuring compliance with privacy frameworks such as **GDPR** and **CCPA**.  
-- Developed documentation for analytics tracking implementation while following **data security best practices**.  
-- Collaborated with marketing and IT teams to maintain accurate, privacy-compliant reporting structures.
+⸻
 
----
+📜 Certifications & Programs
+•
+Google Cybersecurity Professional Certificate
+•
+Covered security operations, network defense, incident response, and SIEM tools.
+•
+Completed a capstone project simulating a real-world incident response.
+•
+IQ4 Cloud Apprenticeship
+•
+Training in cloud infrastructure, virtualization, and identity management.
+•
+Worked with Azure and AWS to configure secure access and monitor compliance.
+•
+LinkedIn Learning Coursework – Cloud Security, PowerShell Automation, Incident Handling, Security Operations.🔐 Artem’s Cybersecurity Portfolio
 
-## 💻 Skills
+Welcome to my cybersecurity portfolio — a showcase of my technical expertise, hands-on projects, and professional growth as a cybersecurity student and practitioner. This collection reflects my journey in building a strong foundation in information security, system administration, and risk management, with a focus on applying skills in real-world environments.
 
-### **Technical Skills**
-- **Security Tools:** Trellix EDR, Nessus, OpenVAS, Wireshark, Tcpdump, Splunk, Wazuh, Nmap  
-- **Operating Systems:** Windows Server, Linux (Ubuntu, Kali), macOS  
-- **Programming & Scripting:** Python, PowerShell, Bash, SQL  
-- **Networking:** VLAN configuration, firewall rules, packet capture analysis, secure network architecture  
-- **Cloud & Identity:** Azure Active Directory, MFA setup, conditional access policies  
-- **Web Security:** WordPress hardening, site monitoring, access control, SSL configuration  
+⸻
 
-### **Soft Skills**
-- Analytical thinking and problem solving  
-- Clear technical documentation writing  
-- Cross-team communication in hybrid/remote environments  
-- Time management and self-directed learning  
-- Adaptability to emerging tools and technologies  
+📜 Professional Summary
 
----
+I’m a Cybersecurity & IT major at the University of Cincinnati (Class of 2026) passionate about protecting digital infrastructure, identifying threats, and developing effective, practical security solutions.
 
-## 📜 Certifications & Programs
+Through internships, academic projects, and industry programs, I’ve gained experience in:
+•
+Defensive Security – log analysis, SIEM monitoring, incident response
+•
+Offensive Security – vulnerability scanning, penetration testing, CTF challenges
+•
+Automation – scripting in Python, PowerShell, and Bash
+•
+Cloud & Network Security – identity management, secure configurations, network monitoring
 
-- **Google Cybersecurity Professional Certificate**  
-  - Covered security operations, network defense, incident response, and SIEM tools.  
-  - Completed a capstone project simulating a real-world security incident response.  
+My approach blends technical expertise with analytical problem-solving, ensuring security best practices are applied with precision and efficiency.
 
-- **IQ4 Cloud Apprenticeship**  
-  - Completed training on cloud infrastructure, virtualization, and identity management.  
-  - Worked with Azure and AWS environments to configure secure access and monitor compliance.
+⸻
 
-- **LinkedIn Learning Coursework** – Cloud Security, PowerShell Automation, Incident Handling, Security Operations
+🏆 Professional Experience
 
----
+Cybersecurity & IT Intern
+Fuchsjobs – Remote (2025)
+•
+Directed technical and security operations for the Rechnungsfuchs website and blog.
+•
+Hardened WordPress security with plugin updates, access controls, and automated backups.
+•
+Performed regular security audits to identify vulnerabilities and ensure safe content delivery.
+•
+Automated blog scheduling and optimized site structure for performance and SEO.
+•
+Partnered with cross-functional teams to align security measures with business goals without compromising usability.
 
-## 📂 Portfolio Overview
+Information Services Intern – Cybersecurity
+Parkview Health – Fort Wayne, IN (Summer 2024)
+•
+Worked with IS and Cybersecurity teams in a hybrid environment.
+•
+Monitored threats and responded to incidents using Trellix Endpoint Detection & Response (EDR).
+•
+Supported vulnerability management to maintain compliance with security standards.
+•
+Assisted in email security monitoring and phishing simulations to raise awareness.
+•
+Resolved security-related tickets and contributed to standard operating procedure documentation.
 
-This repository contains categorized projects, each with documentation, scripts, and supporting artifacts.
+Data & Analytics Intern
+InfoTrust – Cincinnati, OH (2023)
+•
+Supported data governance and analytics operations for large-scale clients.
+•
+Ensured compliance with privacy regulations (GDPR, CCPA) in secure data pipelines.
+•
+Created documentation for analytics tracking implementations.
+•
+Collaborated with marketing and IT teams to maintain accurate, privacy-compliant reporting.
 
+⸻
+
+💻 Skills
+
+Technical Skills
+•
+Security Tools: Trellix EDR, Nessus, OpenVAS, Wireshark, Tcpdump, Splunk, Wazuh, Nmap
+•
+Operating Systems: Windows Server, Linux (Ubuntu, Kali), macOS
+•
+Programming & Scripting: Python, PowerShell, Bash, SQL
+•
+Networking: VLAN configuration, firewall rules, packet analysis, secure network design
+•
+Cloud & Identity: Azure Active Directory, MFA setup, conditional access policies
+•
+Web Security: WordPress hardening, site monitoring, access control, SSL configuration
+
+Soft Skills
+•
+Analytical thinking & problem-solving
+•
+Clear, concise technical documentation
+•
+Cross-team collaboration in hybrid/remote environments
+•
+Strong time management & self-directed learning
+•
+Adaptability to new tools and technologies
+
+⸻
+
+📜 Certifications & Programs
+•
+Google Cybersecurity Professional Certificate
+•
+Covered security operations, network defense, incident response, and SIEM tools.
+•
+Completed a capstone project simulating a real-world incident response.
+•
+IQ4 Cloud Apprenticeship
+•
+Training in cloud infrastructure, virtualization, and identity management.
+•
+Worked with Azure and AWS to configure secure access and monitor compliance.
+•
+LinkedIn Learning Coursework – Cloud Security, PowerShell Automation, Incident Handling, Security Operations.
